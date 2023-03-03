@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "prefix": "!",
+  "token": "MTA3MDM1MTQ5NzM1MjcyMDQ0Ng.GvIzj8.CD8PSGaJ-NOdz8YpF3DqmAYsoLkxOkzhdPZlcw",
+  "prefix": "b.",
   "ksoftapi": "",
   
   
@@ -8,8 +8,8 @@
     "nodes": [
       {
          "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
+         "port": 2007,
+         "password": "fish_n_ships2007"
        }
      ]
   },
